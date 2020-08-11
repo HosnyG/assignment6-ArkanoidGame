@@ -1,0 +1,143 @@
+# Level 1
+#Red Super Mario
+
+
+START_LEVEL
+level_name:Red Mario
+ball_velocities:45,500 -45,500 45,450 -45,450
+background:image(background_images/super_mario1.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/mario_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:50
+row_height:21
+num_blocks:40
+START_BLOCKS
+wwwwrrrrrrwwwww
+wwwrrrrrrrrrrww
+wwwlllmmmlmwwww
+wwlmlmmmmlmmmww
+wwlmllmmmmlmmmw
+wwllmmmmmllllww
+wwwwmmmmmmmmwww
+wwwrrbrrbrrwwww
+wwrrrbrrbrrrwww
+wrrrrbbbbrrrrww
+wmmrbybbybrmmww
+wmmmbbbbbbmmmww
+wmmbbbbbbbbmmww
+wwwbbbwwbbbwwww
+wwkkkwwwwkkkwww
+wkkkkwwwwkkkkww
+
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+# Green Mario
+
+START_LEVEL
+level_name:Green Mario
+ball_velocities:45,500 -45,500 45,450 -45,450
+background:image(background_images/super_mario2.png)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/mario_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:50
+row_height:21
+num_blocks:40
+START_BLOCKS
+wwwwggggggwwwww
+wwwggggggggggww
+wwwlllmmmlmwwww
+wwlmlmmmmlmmmww
+wwlmllmmmmlmmmw
+wwllmmmmmllllww
+wwwwmmmmmmmmwww
+wwwggbggbggwwww
+wwgggbggbgggwww
+wggggbbbbggggww
+wmmgbybbybgmmww
+wmmmbbbbbbmmmww
+wmmbbbbbbbbmmww
+wwwbbbwwbbbwwww
+wwkkkwwwwkkkwww
+wkkkkwwwwkkkkww
+
+END_BLOCKS
+END_LEVEL
+
+
+# Level 3
+# Ladybug
+
+START_LEVEL
+level_name:Ladybug
+ball_velocities:45,500 -45,500 45,450 -45,450
+background:color(gray)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/mario_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:50
+row_height:21
+num_blocks:40
+START_BLOCKS
+wwwwwllllllwwww
+wwwllmmrrrrllww
+wwlmmmmrrrrmmlw
+wlrrrrrmmmmrrml
+lrmmrrmmmmmmrrr
+lmmmmrmmmmmmrrr
+lmmmmrmmmmmmrrm
+lmmmmrrmmmmrrmm
+lrmmrrrrrrrrrmm
+lrrrllllllllrrm
+wlllmmlmmlmmlll
+wwlmmmlmmlmmmlw
+wwlmmmmmmmmmmlw
+wwwlmmmmmmmmlww
+wwwwllllllllwww
+wwwwwwwwwwwwwww
+
+END_BLOCKS
+END_LEVEL
+
+# Level 4
+# flower
+
+START_LEVEL
+level_name:Flower
+ball_velocities:45,500 -45,500 45,450 -45,450
+background:image(background_images/jungle.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/mario_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:50
+row_height:21
+num_blocks:40
+START_BLOCKS
+wwwdddddddddwww
+wdddooooooodddw
+ddoooqqqqqooodd
+dooqqqdwdqqqood
+dooqqqdqdqqqood
+dooooqqqqqooood
+ddooooooooooodd
+wdddooooooodddw
+wwwdddddddddwww
+wddwwwdfdwwwddw
+dffddwdfdwddffd
+dffffddfddffffd
+dfffffdfdfffffd
+wdffffdfdffffdw
+wwddfffffffddww
+wwwwdddddddwwww
+wwwwwwwwwwwwwww
+
+END_BLOCKS
+END_LEVEL
+

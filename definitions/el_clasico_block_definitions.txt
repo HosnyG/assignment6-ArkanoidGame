@@ -1,0 +1,19 @@
+# default values for blocks
+default height:60 width:60 stroke:color(black)
+
+# block definitions
+bdef symbol:a hit_points:2 fill-2:image(block_images/realmadrid/1.png) fill:image(block_images/barcelona/1.png)
+bdef symbol:b hit_points:2 fill-2:image(block_images/realmadrid/2.png) fill:image(block_images/barcelona/2.png)
+bdef symbol:c hit_points:2 fill-2:image(block_images/realmadrid/3.png) fill:image(block_images/barcelona/3.png)
+bdef symbol:d hit_points:2 fill-2:image(block_images/realmadrid/4.png) fill:image(block_images/barcelona/4.png)
+bdef symbol:e hit_points:2 fill-2:image(block_images/realmadrid/5.png) fill:image(block_images/barcelona/5.png)
+bdef symbol:f hit_points:2 fill-2:image(block_images/realmadrid/6.png) fill:image(block_images/barcelona/6.png)
+bdef symbol:g hit_points:2 fill-2:image(block_images/realmadrid/7.png) fill:image(block_images/barcelona/7.png)
+bdef symbol:h hit_points:2 fill-2:image(block_images/realmadrid/8.png) fill:image(block_images/barcelona/8.png)
+bdef symbol:i hit_points:2 fill-2:image(block_images/realmadrid/9.png) fill:image(block_images/barcelona/9.png)
+bdef symbol:j hit_points:2 fill-2:image(block_images/realmadrid/10.png) fill:image(block_images/barcelona/10.png)
+
+
+
+# spacers definitions
+sdef symbol:- width:70

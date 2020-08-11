@@ -1,0 +1,64 @@
+# Level 1
+
+START_LEVEL
+level_name:El Clasico
+ball_velocities:45,550
+background:image(background_images/el_clasico.jpg)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/el_clasico_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:60
+num_blocks:10
+START_BLOCKS
+-
+-abcdefghij
+
+END_BLOCKS
+END_LEVEL
+
+
+# Level 2
+#cr7
+
+START_LEVEL
+level_name:Cristiano Ronaldo
+ball_velocities:-60,390 -45,390 -30,390 -15,390 15,390 30,390 45,390 60,390
+background:color(gray)
+paddle_speed:650
+paddle_width:160
+block_definitions:definitions/player_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:50
+row_height:16
+num_blocks:100
+START_BLOCKS
+wwwwwwwwwwwwwwwbbbwwwwwww
+wwwwwwwwwwbbbbbkkkbwwwwww
+wwwwwwwwwbkkkkkkkkbwwwwww
+wwwwwwwwbkkkkkkkkkbwwwwww
+wwwwwwwbkkkkkkkkkkbwwwwww
+wwwwwwwbkkkkmmmmmmbwwwwww
+wwwwwwwbkmkmmwwmwmbwwwwww
+wwwwwwwbkmkmwbbmbwbwwwwww
+wwwwwwwbkmmmwbbmbwbwwwwww
+wwwwwwwwbmmmmwwmwmbwwwwww
+wwwwwwbbbbmmbbmmmbbwwwwww
+wwwwwbwwwcbmmmmmbcwbwwwww
+wwwwbmwwwwwbbbbbwwwmbwwww
+wwwbmmmwbwwwmwwwbwmmmbwww
+wwwbmmbbbwgwwwwwbbbmmbwww
+wwwbmmmbbwwwwwwwbbmmmbwww
+wwwbmmmbbwwwwwwwbbmmmbwww
+wwwwbbbwbcwwwwwcbwbbbwwww
+wwwwwwwbcwwwwwwwcbwwwwwww
+wwwwwwbcwwwwbwwwwcbwwwwww
+wwwwwbbmmmmbwbmmmmbbwwwww
+wwwbbwwwwwbwwwbwwwwwbbwww
+wwbwwwwwwwbwwwbwwwwwwwbww
+wwbbbbbbbbbwwwbbbbbbbbbww
+
+
+END_BLOCKS
+END_LEVEL
